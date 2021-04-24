@@ -1,1 +1,1 @@
-# chrome-version-checker
+Google doesn't provide a webhook on publishing an extension. To automate it we can use this script which takes extension id as input. A message will be sent to google chat when a new extension is published.
